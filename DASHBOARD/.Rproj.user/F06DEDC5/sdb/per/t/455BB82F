@@ -1,0 +1,16 @@
+{
+    "contents" : "install.packages(c(\"shiny\", \"dplyr\", \"htmlwidgets\", \"digest\", \"bit\"))\ndevtools::install_github(\"rstudio/shinydashboard\")\ndevtools::install_github(\"hadley/shinySignals\")\nlibrary(shiny)\nlibrary(shinydashboard)\nlibrary(shinySignals)\nlibrary(htmlwidgets)\n\nhttp://rstudio.github.io/shinydashboard/structure.html\n",
+    "created" : 1426686852249.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2283814531",
+    "id" : "455BB82F",
+    "lastKnownWriteTime" : 1426359661,
+    "path" : "~/Dropbox/MSc Data Science/Courses/007 - Stochastic models (14D006)/Stochastic Project/Presentation/DASHBOARD/packages.r",
+    "project_path" : "packages.r",
+    "properties" : {
+    },
+    "source_on_save" : false,
+    "type" : "r_source"
+}
