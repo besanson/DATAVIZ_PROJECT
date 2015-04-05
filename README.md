@@ -9,9 +9,9 @@ This repository has the following files and folders:
 + `DataAnalysis.R`: this script has all the work done for the first task, from facts to plots.
 + `SentAnalysis.R`: this script has all the work done for the second task, from facts to plots.
 + `PlotCrash.R`: this script has the plot that shows the crash
-+ Data: this folder has all the `csv files` generated in the project but `dataset1.csv` and `dataset2.csv` (because these two exceeded GITHUB limit).
-+ Dictionary: this folder has the dictionaries of positive and negative words from http://www.cs.uic.edu/~liub/FBS/sentiment-analysis.html
-+ DASHBOARD: this folder has the shiny app that was deployed later as https://besanson.shinyapps.io/DataViz_Final_Project/
++ `Data`: this folder has all the `csv files` generated in the project but `dataset1.csv` and `dataset2.csv` (because these two exceeded GITHUB limit).
++ `Dictionary`: this folder has the dictionaries of positive and negative words from http://www.cs.uic.edu/~liub/FBS/sentiment-analysis.html
++ `DASHBOARD`: this folder has the shiny app that was deployed later as https://besanson.shinyapps.io/DataViz_Final_Project/
 
  
 
